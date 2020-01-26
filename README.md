@@ -9,7 +9,9 @@ a little bit of AI
 and how to create interfaces within the program  
 
 Download the "First Game" folder and run the application inside the folder  
+
 or  
+
 Open the "First Game" folder  
 Download the .res folder  
 then the .jar and .exe files    

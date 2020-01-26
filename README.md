@@ -11,4 +11,5 @@ and how to create interfaces within the program
 Download the .res folder  
 then the .jar and .exe files    
 put them all in the same folder  
-then run the application  
+then run the application inside the folder  
+

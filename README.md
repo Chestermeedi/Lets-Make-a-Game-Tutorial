@@ -8,6 +8,9 @@ how to upload files into the java program
 a little bit of AI  
 and how to create interfaces within the program  
 
+Download the "First Game" folder  
+or  
+Open the "First Game" folder  
 Download the .res folder  
 then the .jar and .exe files    
 put them all in the same folder  

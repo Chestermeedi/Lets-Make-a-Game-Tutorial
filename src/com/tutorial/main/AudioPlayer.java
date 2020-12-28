@@ -23,6 +23,8 @@ public class AudioPlayer {
 		} catch (SlickException e) {
 
 			e.printStackTrace();
+			
+			System.exit(1);
 		}
 		
 	}
